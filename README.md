@@ -4,4 +4,4 @@ Search for a movie by its name.
 
 It is live at https://movie-adda-app.herokuapp.com/
 
-(PS: Don't judge by css pl :P)
+(PS: Don't judge by CSS pl :P)
